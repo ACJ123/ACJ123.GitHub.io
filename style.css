@@ -6,3 +6,9 @@ body {
 #summary {
 	color: purple;
 }
+
+img {
+	border: 20px solid black;
+	border-top-color:red;
+	border-bottom-color:red;
+}
