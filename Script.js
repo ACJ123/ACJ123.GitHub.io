@@ -1,1 +1,1 @@
-alert("Hello")
+alert("click the yellow button")
